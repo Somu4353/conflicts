@@ -4,5 +4,5 @@ hai somu
 gud mrng
 
 hello teju
-gud night
 
+this is python code
